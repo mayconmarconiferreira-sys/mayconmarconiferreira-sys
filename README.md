@@ -17,7 +17,7 @@
 | Server | Chronicle | Focus |
 | --- | --- | --- |
 | **L2 Valakas** | Interlude | Balanced PvP, stable uptime, active staff |
-| **L2 Impact** | High Five | Custom content, events, community-driven tuning |
+| **L2 Impact** | Interlude | Custom content, events, community-driven tuning |
 
 ### 🛠️ Stack
 
