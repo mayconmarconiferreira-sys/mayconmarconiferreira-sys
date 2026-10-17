@@ -7,17 +7,19 @@
 ### 🐉 What I do
 
 - **Server administration** — full setup and live ops for L2J / L2OFF
-- **Chronicles** — Interlude & High Five
+- **Chronicles** — Interlude
 - **Custom content** — NPCs, drops, geodata, events, balance tuning
 - **Anti-cheat** — detection, logs, bans, and patching what cheaters find next
 - **Client side** — source builds, launcher, patching and distribution
 
 ### ⚔️ My servers
 
-| Server | Chronicle | Focus |
-| --- | --- | --- |
-| **L2 Valakas** | Interlude | Balanced PvP, stable uptime, active staff |
-| **L2 Impact** | Interlude | Custom content, events, community-driven tuning |
+| Server | Chronicle | Site | Community |
+| --- | --- | --- | --- |
+| **L2 Valakas** | Interlude | [l2valakas.com](https://l2valakas.com/) | [Discord](https://discord.gg/L2Valakas) |
+| **L2 Impact** | Interlude | [l2impact.net](https://l2impact.net/) | [Discord](https://discord.gg/Dk7e6T8ct) |
+
+Both servers are live — real-time PvP and PK rankings, boss control, events and active support.
 
 ### 🛠️ Stack
 
